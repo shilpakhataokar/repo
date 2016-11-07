@@ -71,7 +71,7 @@ public class ShopsNearbyController {
      *
      * @return
      */
-    @RequestMapping(path = "    ", method = RequestMethod.GET)
+    @RequestMapping(path = "/allshops", method = RequestMethod.GET)
     public List<Shop> getAll() {
         List<Shop> shops = shopService.getAll();
         return shops;

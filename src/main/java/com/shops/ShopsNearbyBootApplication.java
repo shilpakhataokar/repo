@@ -18,7 +18,7 @@ public class ShopsNearbyBootApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ShopsNearbyBootApplication.class, args);
-        System.out.println("YAY you ran Your first Spring boot application");
+        System.out.println("Your Spring boot application has started");
     }
 
     @Bean(name = "geocodeService")
