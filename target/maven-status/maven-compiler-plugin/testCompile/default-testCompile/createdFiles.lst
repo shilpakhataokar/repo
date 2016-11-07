@@ -1,0 +1,5 @@
+com\shops\controller\ShopsNearbyControllerTest.class
+com\shops\service\ShopServiceTest.class
+com\shops\ShopsNearbyBootApplicationTest.class
+com\shops\util\UtilityTest.class
+com\shops\service\GeocodeServiceTest.class
